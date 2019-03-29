@@ -4,6 +4,11 @@
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
     "version": "1.0.0",
     "publisher": "waldo",
+    "author": {
+        "name": "waldo",
+        "url": "http://www.waldo.be",
+        "email": "al-extension-pack@waldo.be"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
