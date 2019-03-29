@@ -1,0 +1,43 @@
+{
+    "name": "al-extension-pack",
+    "displayName": "AL Extension Pack",
+    "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
+    "version": "1.0.0",
+    "publisher": "waldo",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#0060A0",
+        "theme": "dark"
+    },
+    "icon": "logo.png",
+    "homepage": "https://www.waldo.be",
+    "bugs": {
+        "url": "https://github.com/waldo1001/ALExtensionPack/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/waldo1001/ALExtensionPack"
+    },
+    "extensionPack": [
+        "waldo.crs-al-language-extension",
+        "rasmus.al-var-helper",
+        "andrzejzwierzchowski.al-code-outline",
+        "martonsagi.al-object-designer",
+        "nwallace.createguid",
+        "vscode-icons-team.vscode-icons",
+        "microsoft.al",
+        "coenraads.bracket-pair-colorizer",
+        "formulahendry.docker-explorer",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "ms-vscode.powershell",
+        "nikitakunevich.snippet-creator",
+        "wayou.vscode-todo-highlight"
+    ]
+}
