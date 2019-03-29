@@ -1,5 +1,5 @@
 # AL Extension Pack
-This is a set of VSCode extensions that I (waldo) use daily.
+This is a set of VSCode extensions that I ([waldo](http://www.waldo.be)) use daily.
 
 |              |         |
 |--------------|---------|
