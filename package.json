@@ -2,7 +2,7 @@
     "name": "al-extension-pack",
     "displayName": "AL Extension Pack",
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "waldo",
     "author": {
         "name": "waldo",
@@ -38,7 +38,7 @@
         "vscode-icons-team.vscode-icons",
         "microsoft.al",
         "CoenraadS.bracket-pair-colorizer-2",
-        "formulahendry.docker-explorer",
+        "ms-azuretools.vscode-docker",
         "eamodio.gitlens",
         "donjayamanne.githistory",
         "ms-vscode.powershell",
