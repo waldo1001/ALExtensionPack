@@ -2,7 +2,7 @@
     "name": "al-extension-pack",
     "displayName": "AL Extension Pack",
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "waldo",
     "author": {
         "name": "waldo",
@@ -34,6 +34,7 @@
         "rasmus.al-var-helper",
         "andrzejzwierzchowski.al-code-outline",
         "martonsagi.al-object-designer",
+        "bartpermentier.al-toolbox",
         "nwallace.createguid",
         "vscode-icons-team.vscode-icons",
         "microsoft.al",
