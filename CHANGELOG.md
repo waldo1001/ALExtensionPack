@@ -2,7 +2,7 @@
 All notable changes to the "AL Extension Pack" extension.
 
 ## [1.0.3] - 2019-09-12
-Added "AL Toolbox" extension
+Added "AL Toolbox" extension - Thanks [Martonsagi](https://github.com/martonsagi) for [the pullrequest](https://github.com/waldo1001/ALExtensionPack/pull/1)!
 
 ## [1.0.2] - 2019-07-15
 Replaced "Docker Explorer" with the official "Docker" extension from Microsoft.
