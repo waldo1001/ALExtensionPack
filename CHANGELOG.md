@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.4] - 2019-11-02
+Added "XLIFF Sync" extension
+
 ## [1.0.3] - 2019-09-12
 Added "AL Toolbox" extension - Thanks [Martonsagi](https://github.com/martonsagi) for [the pullrequest](https://github.com/waldo1001/ALExtensionPack/pull/1)!
 
