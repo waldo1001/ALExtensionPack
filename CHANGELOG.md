@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
-## [1.0.4] - 2019-11-02
+## [1.0.4] - 2019-11-20
 Added "XLIFF Sync" extension
 
 ## [1.0.3] - 2019-09-12

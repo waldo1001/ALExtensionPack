@@ -19,7 +19,7 @@
         "color": "#0060A0",
         "theme": "dark"
     },
-    "icon": "logo.png",
+    "icon": "waldo.png",
     "homepage": "https://www.waldo.be",
     "bugs": {
         "url": "https://github.com/waldo1001/ALExtensionPack/issues"
