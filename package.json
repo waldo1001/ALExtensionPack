@@ -2,7 +2,7 @@
     "name": "al-extension-pack",
     "displayName": "AL Extension Pack",
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "waldo",
     "author": {
         "name": "waldo",
@@ -47,6 +47,7 @@
         "wayou.vscode-todo-highlight",
         "humao.rest-client",
         "Gruntfuggly.todo-tree",
-        "rvanbekkum.xliff-sync"
+        "rvanbekkum.xliff-sync",
+        "jamespearson.al-test-runner"
     ]
 }
