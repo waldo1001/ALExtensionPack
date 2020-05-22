@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.5] - 2020-05-22
+Added "AL Navigator" extension
+
 ## [1.0.4] - 2019-11-20
 Added "XLIFF Sync" extension
 
