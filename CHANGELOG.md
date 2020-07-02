@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.6] - 2020-07-02
+Added "AL XML Documentation" extension
+
 ## [1.0.5] - 2020-05-22
 Added "AL Navigator" extension
 
