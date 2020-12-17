@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.10] - 2020-12-17
+Added "mdAL" extension
+
 ## [1.0.9] - 2020-07-02
 Added "AL XML Documentation" extension
 
