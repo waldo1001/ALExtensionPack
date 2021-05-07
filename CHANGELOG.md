@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.11] - 2021-05-07
+Added "nabsolutions.nab-al-tools" extension (finally ;-))
+
 ## [1.0.10] - 2020-12-17
 Added "mdAL" extension
 
