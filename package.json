@@ -2,7 +2,7 @@
     "name": "al-extension-pack",
     "displayName": "AL Extension Pack",
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
-    "version": "1.0.11",
+    "version": "1.0.14",
     "publisher": "waldo",
     "author": {
         "name": "waldo",
@@ -52,6 +52,7 @@
         "davidfeldhoff.al-codeactions",
         "wbrakowski.al-navigator",
         "365businessdevelopment.bdev-al-xml-doc",
-        "nabsolutions.nab-al-tools"
+        "nabsolutions.nab-al-tools",
+        "vjeko.vjeko-al-objid"
     ]
 }

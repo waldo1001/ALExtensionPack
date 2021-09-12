@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.14] - 2021-09-13
+Added "vjeko.vjeko-al-objid" extension.
+
 ## [1.0.11] - 2021-05-07
 Added "nabsolutions.nab-al-tools" extension (finally ;-))
 
