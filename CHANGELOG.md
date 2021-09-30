@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.15] - 2021-09-30
+Added "Partial Diff" extension.
+
 ## [1.0.14] - 2021-09-13
 Added "vjeko.vjeko-al-objid" extension.
 
