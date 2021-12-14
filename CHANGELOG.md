@@ -3,6 +3,7 @@ All notable changes to the "AL Extension Pack" extension.
 
 ## [1.0.16] - 2021-12-14
 Added "AL Lint" extension.
+Removed obsolete extension "bracket pair colorizer" (thank you [Matthias Rabus](https://github.com/mrabus))
 
 ## [1.0.15] - 2021-09-30
 Added "Partial Diff" extension.
