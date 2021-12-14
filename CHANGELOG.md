@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.16] - 2021-12-14
+Added "AL Lint" extension.
+
 ## [1.0.15] - 2021-09-30
 Added "Partial Diff" extension.
 
