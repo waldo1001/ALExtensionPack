@@ -39,6 +39,7 @@
         "vscode-icons-team.vscode-icons",
         "microsoft.al",
         "ms-azuretools.vscode-docker",
+        "mhutchie.git-graph",
         "eamodio.gitlens",
         "donjayamanne.githistory",
         "ms-vscode.powershell",
