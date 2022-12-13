@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.21] - 2022-12-13
+Added "streetsidesoftware.code-spell-checker".
+
 ## [1.0.20] - 2022-09-26
 Added "chunsen.bracket-select".
 
