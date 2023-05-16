@@ -2,7 +2,7 @@
     "name": "al-extension-pack",
     "displayName": "AL Extension Pack",
     "description": "Everything you need for AL development (Microsoft Dynamics 365 Business Central)",
-    "version": "1.0.22",
+    "version": "1.0.23",
     "publisher": "waldo",
     "author": {
         "name": "waldo",
