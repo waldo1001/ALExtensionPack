@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "AL Extension Pack" extension.
 
+## [1.0.22] - 2023-05-16
+Removed the code-spell-checker again, because it simply add too much clutter.  This was also the feedback from many of you.
+
 ## [1.0.21] - 2022-12-13
 Added "streetsidesoftware.code-spell-checker".
 
